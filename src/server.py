@@ -1,3 +1,10 @@
+
+################################################
+# connection by Rishija	      		       #
+# https://github.com/Rishija/python_chatServer #
+################################################
+
+
 import socket
 import select
  
