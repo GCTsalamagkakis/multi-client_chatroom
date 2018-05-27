@@ -17,6 +17,7 @@ Python 2 Multi-client chatroom with log-in/sign-up
   ### Register
     user gives a username and a password, if the username already exists in the database, the user gets to try again
     if there is not such an entry, the user registers successfully and an entry to the database is made
+    ![33747790_10211551272873508_8926164247046520832_n](https://user-images.githubusercontent.com/38569768/40589796-95df03f8-61fc-11e8-968d-717d9af1d3e7.png)
     
 ## Communication
   users write messages to each other and that message is broadcasted to everyone
